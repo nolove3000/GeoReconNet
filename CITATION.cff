@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use GeoReconNet, please cite the paper below."
+title: "GeoReconNet"
+type: software
+authors:
+  - family-names: Qian
+    given-names: Kaikai
+year: 2026
+license: LicenseRef-Academic-Non-Commercial
+repository-code: "https://github.com/nolove3000/GeoReconNet"
+preferred-citation:
+  type: article
+  title: "Structural Geometry Reconstruction from Incomplete Vibration Modal Information via Deep Learning"
+  authors:
+    - family-names: Qian
+      given-names: Kaikai
+    - family-names: Gao
+      given-names: Fangqing
+    - family-names: Liu
+      given-names: Longbo
+    - family-names: Huang
+      given-names: Lei
+    - family-names: Mao
+      given-names: Yihan
+  year: 2026
+  doi: "10.2139/ssrn.6635173"
+  url: "https://doi.org/10.2139/ssrn.6635173"

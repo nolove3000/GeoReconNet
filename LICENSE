@@ -1,0 +1,62 @@
+Academic Non-Commercial License
+
+Copyright (c) 2026 qiankaikai. All rights reserved.
+
+This repository and its contents, including source code, documentation,
+datasets, trained model weights, figures, and other associated materials
+(collectively, the "Materials"), are made available solely for academic
+research, education, and personal non-commercial use, subject to the terms
+below.
+
+1. Non-commercial permission
+
+Permission is granted to use, copy, study, and modify the Materials for
+academic research, education, and personal non-commercial purposes.
+
+2. Attribution and citation
+
+Any use, copy, modification, redistribution, publication, presentation, or
+derived work involving the Materials must:
+
+  a. retain this copyright notice and license;
+  b. clearly acknowledge qiankaikai as the copyright holder; and
+  c. cite the following paper:
+
+     Kaikai Qian, Fangqing Gao, Longbo Liu, Lei Huang, and Yihan Mao,
+     "Structural Geometry Reconstruction from Incomplete Vibration Modal
+     Information via Deep Learning," SSRN, 2026.
+     https://doi.org/10.2139/ssrn.6635173
+
+3. No commercial use
+
+Commercial use is prohibited without prior written permission from the
+copyright holder. Commercial use includes, but is not limited to, use of the
+Materials or derived works in or for a commercial product or service,
+fee-based consulting, contract research performed for commercial benefit,
+internal business operations, or any activity primarily intended for
+commercial advantage or monetary compensation.
+
+4. Redistribution
+
+Redistribution of the Materials or modified versions is permitted only for
+the non-commercial purposes described above. Redistributions must reproduce
+this license, identify significant modifications, and must not impose terms
+that remove or weaken the attribution, citation, or non-commercial
+requirements in this license.
+
+5. No endorsement
+
+The names of the copyright holder and paper authors may not be used to endorse
+or promote products or services derived from the Materials without prior
+written permission.
+
+6. Disclaimer
+
+THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM,
+OUT OF, OR IN CONNECTION WITH THE MATERIALS OR THEIR USE.
+
+For commercial licensing or other permissions, contact the copyright holder.

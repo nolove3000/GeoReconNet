@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+
+models/scalers/
+models/**/*.pt
+models/**/*.pth
+outputs/
+
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
