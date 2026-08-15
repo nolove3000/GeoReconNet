@@ -4,7 +4,7 @@
 
 GeoReconNet reconstructs high-resolution plate-geometry damage masks from incomplete vibration modal information. This public research package accompanies:
 
-> Kaikai Qian, Fangqing Gao, Longbo Liu, Lei Huang, and Yihan Mao, “Structural Geometry Reconstruction from Incomplete Vibration Modal Information via Deep Learning,” 2026. <https://doi.org/10.2139/ssrn.6635173>
+> Kaikai Qian, Fangqing Gao, Longbo Liu, Lei Huang, and Yihan Mao, “Structural Geometry Reconstruction from Incomplete Vibration Modal Information via Deep Learning,” 2026. <https://doi.org/10.1016/j.rineng.2026.112319>
 
 The repository contains the data and code required to train and evaluate the plate-specific GeoReconNet model reported in the paper. It also contains the frozen split, noise-augmentation route, direct baselines, and controlled architecture ablations used in the reported comparisons.
 

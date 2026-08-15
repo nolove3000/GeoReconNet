@@ -4,7 +4,7 @@
 
 GeoReconNet 使用不完整振动模态信息重建板结构的高分辨率损伤几何掩码。本公开研究仓库对应论文：
 
-> Kaikai Qian, Fangqing Gao, Longbo Liu, Lei Huang, and Yihan Mao, “Structural Geometry Reconstruction from Incomplete Vibration Modal Information via Deep Learning,” 2026. <https://doi.org/10.2139/ssrn.6635173>
+> Kaikai Qian, Fangqing Gao, Longbo Liu, Lei Huang, and Yihan Mao, “Structural Geometry Reconstruction from Incomplete Vibration Modal Information via Deep Learning,” 2026. <https://doi.org/10.1016/j.rineng.2026.112319>
 
 仓库仅提供复现论文板结构 GeoReconNet 模型训练与评价所需的数据和代码，并包含论文对比所用的冻结数据划分、噪声增强训练、直接基线和受控架构消融。
 
